@@ -7,4 +7,4 @@ print(min(mark.values()))
 print("人數為：")
 print(len(mark))
 print("平均分：")
-
+print(sum(mark.values())/len(mark))
